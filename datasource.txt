@@ -1,0 +1,6 @@
+Deux sources de données pour le traitement de données : 
+Les données relatives à la qualité de l’air : https://aqicn.org/json-api/doc/ 
+Les données météorologiques : https://openweathermap.org/api
+
+Une source de données pour faire la prédiction de données : 
+Les données historiques de la qualité d'air : https://open-meteo.com/en/docs/historical-weather-api
