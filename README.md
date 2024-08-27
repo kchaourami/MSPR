@@ -10,7 +10,7 @@ Clonez ce dépôt sur votre machine locale :
 
 bash
 Copy code
-git clone [https://github.com/kchaourami/MSPR]
+git clone [https://github.com/kchaourami/MSPR.git]
 cd Weather-AirQuality
 Installez les dépendances Python nécessaires :
 
